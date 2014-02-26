@@ -1,4 +1,4 @@
 dhmm
 ====
 
-A python implementation of a discrete hidden Markov Model bassed classifier.
+A gesture recognition system built upon a discrete hidden Markov Model based classifier.
